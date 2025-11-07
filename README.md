@@ -1,6 +1,7 @@
 💱 Conversor de Monedas
 Un conversor de monedas desarrollado en Java que utiliza la API de ExchangeRate-API para obtener tasas de cambio en tiempo real.
 
+*******************************
 🚀 Características
 26 pares de monedas disponibles para conversión
 
@@ -12,6 +13,7 @@ Conversiones precisas con formato adecuado
 
 Arquitectura orientada a objetos con Gson para mapeo JSON
 
+*******************************
 📋 Monedas Disponibles
 Código	Moneda
 USD	Dólar Estadounidense
@@ -28,15 +30,17 @@ CAD	Dólar Canadiense
 AUD	Dólar Australiano
 CHF	Franco Suizo
 CNY	Yuan Chino
+*******************************
+
 🛠️ Tecnologías Utilizadas
-Java 11+
+Java 21
 
 Gson - Para el mapeo de JSON a objetos Java
 
 HttpClient - Para las peticiones HTTP a la API
 
 ExchangeRate-API - Como proveedor de tasas de cambio
-
+*******************************
 📦 Instalación
 Prerrequisitos
 Java 11 o superior
@@ -44,11 +48,10 @@ Java 11 o superior
 Maven o Gradle (para gestión de dependencias)
 
 API Key de ExchangeRate-API
-
+*******************************
 Configuración
 Clona el repositorio:
 
-bash
 git clone https://github.com/tu-usuario/conversor-monedas.git
 cd conversor-monedas
 Configura tu API Key:
@@ -63,7 +66,7 @@ Compila y ejecuta:
 
 javac -cp ".:gson-2.8.9.jar" *.java
 java -cp ".:gson-2.8.9.jar" Main
-
+*******************************
 🎯 Uso
 Flujo del Programa
 Inicio: El programa se conecta automáticamente a la API
