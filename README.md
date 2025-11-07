@@ -16,19 +16,33 @@ Arquitectura orientada a objetos con Gson para mapeo JSON
 *******************************
 📋 Monedas Disponibles
 Código	Moneda
+
 USD	Dólar Estadounidense
+
 ARS	Peso Argentino
+
 BRL	Real Brasileño
+
 COP	Peso Colombiano
+
 EUR	Euro
+
 GBP	Libra Esterlina
+
 JPY	Yen Japonés
+
 MXN	Peso Mexicano
+
 CLP	Peso Chileno
+
 PEN	Sol Peruano
+
 CAD	Dólar Canadiense
+
 AUD	Dólar Australiano
+
 CHF	Franco Suizo
+
 CNY	Yuan Chino
 *******************************
 
