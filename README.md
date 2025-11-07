@@ -109,6 +109,6 @@ Elija una opción válida:
 1
 Ingrese la cantidad en Dólar: 100
 
-=== RESULTADO DE LA CONVERSIÓN ===
+ RESULTADO DE LA CONVERSIÓN 
 100.00 Dólar = 144,750.00 Peso argentino
-===================================
+
